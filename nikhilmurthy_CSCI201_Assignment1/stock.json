@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "name": "Tesla Inc",
+      "ticker": "TSLA",
+      "description": "Tesla Motors, Inc. (Tesla) designs, develops, manufactures and sells electric vehicles and advanced electric vehicle powertrain components.",
+      "startDate": "2010-06-29",
+      "exchangeCode": "NASDAQ"
+    },
+    {
+      "name": "Apple Inc",
+      "ticker": "AAPL",
+      "description": "Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications.",
+      "startDate": "1980-12-12",
+      "exchangeCode": "NASDAQ"
+    }
+    {
+      "name": "Besla Inc",
+      "ticker": "TSLA",
+      "description": "Tesla Motors, Inc. (Tesla) designs, develops, manufactures and sells electric vehicles and advanced electric vehicle powertrain components.",
+      "startDate": "2010-06-29",
+      "exchangeCode": "NASDAQ"
+    },
+  ]
+}
